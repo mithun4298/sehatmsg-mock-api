@@ -1,0 +1,18 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "phone": "9876543210",
+      "name": "Rahul Sharma",
+      "blood_group": "O+",
+      "status": "registered"
+    },
+    {
+      "id": 2,
+      "phone": "9998887776",
+      "name": "Priya Patel",
+      "blood_group": "A+",
+      "status": "registered"
+    }
+  ]
+}
