@@ -1,0 +1,6 @@
+{
+  "/api/v1/patients/lookup": "/patients",
+  "/api/v1/patients/create": "/patients",
+  "/api/v1/appointments": "/appointments",
+  "/api/v1/appointments/create": "/appointments"
+}
